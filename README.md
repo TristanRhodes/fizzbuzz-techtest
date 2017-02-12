@@ -17,3 +17,13 @@ In all other cases, the program simply returns the given number.
 
 Make sure all your work is commited to your local repository.  
 Zip the entire folder (including .git) and email back to your recruitment consultant. 
+
+## Notes
+Just writing the code was easier than importing [Enterprise FizzBuzz](https://github.com/clementi/EnterpriseFizzBuzz), otherwise I would have done that. :)
+
+## Usage
+This implementation is a .Net console app. Input is assumed as a command line list of space seperated values, with the only user input required to exit the application after running.
+
+To run, either add values such as "1 3 5 7 9 10 11 17 30" in the debug command line arguments and run in visual studio or run the statement:
+
+> .\fizzbuzz.exe 1 3 5 7 10 11 17 30
