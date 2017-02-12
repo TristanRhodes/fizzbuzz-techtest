@@ -45,6 +45,8 @@ jspm_packages
 *csproj.user
 src/*/bin
 src/*/obj
+*/**/fizzbuzz/bin
+*/**/fizzbuzz/obj
 *ReSharper*
 output
 *.pidb
